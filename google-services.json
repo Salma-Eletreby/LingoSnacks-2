@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012670790721",
+    "project_id": "lingosnacks-89f5e",
+    "storage_bucket": "lingosnacks-89f5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012670790721:android:e0df8134df604cf5e35ac0",
+        "android_client_info": {
+          "package_name": "qu.lingosnacks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2shPOXQ5OLS58Euczxby5s7a0rcEuhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
